@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970884174436",
+    "project_id": "userregistration-629bf",
+    "storage_bucket": "userregistration-629bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970884174436:android:bce81a7b3884990b64c571",
+        "android_client_info": {
+          "package_name": "com.example.userregistration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_560pfaDcUJSG45Y_cPf4m8QazFfIRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
